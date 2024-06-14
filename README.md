@@ -238,7 +238,7 @@
   * Reference: [[Link]](https://www.youtube.com/watch?v=fQ8HK4YcWdY)
 * **Morse** [[Poster]](https://drive.google.com/file/d/1IvEODsOfyqnCxCqyg1yC2Np4ErHLJ-W2/view?usp=drive_link) [[YouTube]](https://youtu.be/v01-uWtNU54)
   * Author: 김경환
-* **자동차 기능 구현** [[Poster]](https://drive.google.com/file/d/1-9rifCtNHCirKSTyVhbkVgm7suFND5x8/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/13qIadYkfn8K0GwV1MarrwiS8pfZYDt3i/view?usp=drive_link\)
+* **자동차 기능 구현** [[Poster]](https://drive.google.com/file/d/1-9rifCtNHCirKSTyVhbkVgm7suFND5x8/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/13qIadYkfn8K0GwV1MarrwiS8pfZYDt3i/view?usp=drive_link)
   * Author: 정세영
 * **enigma: German Railway (Rocket)** [[Poster]](https://drive.google.com/file/d/1UcIn0zlJMmQ9Ded3vYbujsaRpqcegIpM/view?usp=drive_link)
   * Author: 김태우
