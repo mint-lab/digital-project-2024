@@ -28,7 +28,7 @@
   * Reference: [[Link]](https://github.com/DjuroRad/Hangman-Console-via-Logisim-Hardware-Project-)
 * **Mystery Sign** [[Poster]](https://drive.google.com/file/d/154qPQBMIKD_ZTQDCKOZW9UM9mh56E8L4/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1D3h4yjuGvT4MvyziQw1aJ4GvgSFfzW4G/view?usp=drive_link)
   * Author: 유기
-* **Game of Life** [[Poster]](https://drive.google.com/file/d/1y07_gqZ53xREgGPVo-0AoL6Qnc_Mye0M/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1_nuZlrFmiHhu-U2ULdFUcyBpfXz5HvkC/view?usp=drive_link)
+* **Game of Life** [[Poster]](https://drive.google.com/file/d/1y07_gqZ53xREgGPVo-0AoL6Qnc_Mye0M/view?usp=drive_link) [[Video1]](https://drive.google.com/file/d/1_nuZlrFmiHhu-U2ULdFUcyBpfXz5HvkC/view?usp=drive_link) [[Video2]](https://drive.google.com/file/d/1y2d7HtkwaXJCKHZ1x-dQ0G1Jvmyl_6os/view?usp=drive_link)
   * Author: 조윤성
   * Reference: [[Link]](https://github.com/AlessandroFare/Game-of-Life-Logisim)
 * **F.L.A.M.E.S.** [[Poster]](https://drive.google.com/file/d/1yrdorCeU3aDp0LytZTjmCZElFI3sYITi/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1y1hxl7iHIyZlk0UvpMOL_9h3FRWengAj/view?usp=drive_link)
